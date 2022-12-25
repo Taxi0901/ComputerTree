@@ -29,7 +29,7 @@ void setup(){
   //pdf化のスイッチ
   pdfRecordOn = false;
   
-  fileName = "tiltAndDiffOfLeftAndRight_test2";  //camelRule
+  fileName = "computerTree";  //camelRule
   
   noLoop();
 }
